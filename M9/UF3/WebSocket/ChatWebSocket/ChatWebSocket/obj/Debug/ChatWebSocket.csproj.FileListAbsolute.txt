@@ -1,0 +1,11 @@
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\bin\Debug\ChatWebSocket.exe.config
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\bin\Debug\ChatWebSocket.exe
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\bin\Debug\ChatWebSocket.pdb
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\obj\Debug\ChatWebSocket.csproj.AssemblyReference.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\obj\Debug\ChatWebSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\obj\Debug\ChatWebSocket.Properties.Resources.resources
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\obj\Debug\ChatWebSocket.View.Form1.resources
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\obj\Debug\ChatWebSocket.csproj.GenerateResource.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\obj\Debug\ChatWebSocket.csproj.CoreCompileInputs.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\obj\Debug\ChatWebSocket.exe
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\WebSocket\ChatWebSocket\ChatWebSocket\obj\Debug\ChatWebSocket.pdb

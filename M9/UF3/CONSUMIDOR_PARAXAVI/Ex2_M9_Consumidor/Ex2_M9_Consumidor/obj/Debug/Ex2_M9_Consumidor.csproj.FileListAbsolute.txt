@@ -1,0 +1,14 @@
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\bin\Debug\Ex2_M9_Consumidor.exe.config
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\bin\Debug\Ex2_M9_Consumidor.exe
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\bin\Debug\Ex2_M9_Consumidor.pdb
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\obj\Debug\Ex2_M9_Consumidor.csproj.AssemblyReference.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\obj\Debug\Ex2_M9_Consumidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\obj\Debug\Ex2_M9_Consumidor.Properties.Resources.resources
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\obj\Debug\Ex2_M9_Consumidor.Vista.Form1.resources
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\obj\Debug\Ex2_M9_Consumidor.csproj.GenerateResource.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\obj\Debug\Ex2_M9_Consumidor.csproj.CoreCompileInputs.cache
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\obj\Debug\Ex2_M9_Consumidor.csproj.CopyComplete
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\obj\Debug\Ex2_M9_Consumidor.exe
+C:\Users\prova\Dropbox\Unidad externa.dbx-external-drive\2nAny\M9\UF3\CONSUMIDOR_PARAXAVI\Ex2_M9_Consumidor\Ex2_M9_Consumidor\obj\Debug\Ex2_M9_Consumidor.pdb
